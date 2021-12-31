@@ -106,9 +106,9 @@ packaging==20.9 \
     # via
     #   -r docs/requirements.txt
     #   sphinx
-pygments==2.8.1 \
-    --hash=sha256:2656e1a6edcdabf4275f9a3640db59fd5de107d88e8663c5d4e9a0fa62f77f94 \
-    --hash=sha256:534ef71d539ae97d4c3a4cf7d6f110f214b0e687e92f9cb9d2a3b0d3101289c8
+pygments==2.11.0 \
+    --hash=sha256:ac8098bfc40b8e1091ad7c13490c7f4797e401d0972e8fcfadde90ffb3ed4ea9 \
+    --hash=sha256:51130f778a028f2d19c143fce00ced6f8b10f726e17599d7e91b290f6cbcda0c
     # via
     #   -r docs/requirements.txt
     #   sphinx
