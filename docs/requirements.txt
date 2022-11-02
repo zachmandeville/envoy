@@ -10,9 +10,9 @@ alabaster==0.7.12 \
     # via
     #   -r docs/requirements.txt
     #   sphinx
-babel==2.9.0 \
-    --hash=sha256:9d35c22fcc79893c3ecc85ac4a56cde1ecf3f19c540bba0922308a6c06ca6fa5 \
-    --hash=sha256:da031ab54472314f210b0adcff1588ee5d1d1d0ba4dbd07b94dba82bde791e05
+babel==2.11.0 \
+    --hash=sha256:1ad3eca1c885218f6dce2ab67291178944f810a10a9b5f3cb8382a5a232b64fe \
+    --hash=sha256:5ef4b3226b0180dedded4229651c8b0e1a3a6a2837d45a073272f313e4cf97f6
     # via
     #   -r docs/requirements.txt
     #   sphinx
